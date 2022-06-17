@@ -1,0 +1,19 @@
+
+.timer{
+    position: absolute;
+    top: 100px;
+    z-index: 1;
+    color: gold;
+    left: 80px;
+
+}
+.carousel {
+    position: absolute;
+    
+}
+.timer p{
+    display: inline;
+    border: 0.5px solid black;
+    padding: 5px 10px;
+    background-color: darkseagreen;
+}
